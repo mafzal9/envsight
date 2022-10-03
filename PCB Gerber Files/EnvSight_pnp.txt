@@ -1,0 +1,22 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=EnvSight
+*Date=22:21:38
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;20.3812;-25.7238;90;Bottom;WeMos D1 Mini1
+2;;;18.6196;-4.67314;90;Bottom;DHT22/DHT11
+3;;;2.27396;-52.3938;0;Bottom;Hole2
+4;;;40.3739;-4.13391;0;Bottom;Hole4
+5;;;40.3739;-52.3938;0;Bottom;Hole1
+6;;;2.27396;-4.13391;0;Bottom;Hole3
+7;;;16.2373;-47.8391;0;Bottom;MQ-135
